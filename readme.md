@@ -1,47 +1,75 @@
-![Web Developer Roadmap - 2019](https://i.imgur.com/s5cCV9q.png)
+<p align="center">
+  <img src="public/brand.png" height="128">
+  <h2 align="center">roadmap.sh</h2>
+  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <p align="center">
+    <a href="https://roadmap.sh/roadmaps">
+    	<img src="https://img.shields.io/badge/-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    </a>
+    <a href="https://youtube.com/theroadmap?sub_confirmation=1">
+    	<img src="https://img.shields.io/badge/-Videos-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    </a>
+    <a href="https://github.com/kamranahmedse/developer-roadmap/tree/0471d44c8fae58b6a36a7c57bba12253916d0249/translations">
+    	<img src="https://img.shields.io/badge/-Translations-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
+    	<img src="https://img.shields.io/badge/%E2%9D%A4-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    </a>
+  </p>
+</p>
 
-> Roadmap to becoming a web developer in 2019
+<br>
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+![](https://i.imgur.com/waxVImv.png)
 
-If you think that these can be improved in anyway, please do suggest.
+Roadmaps are being made interactive and have been moved to the website.
 
-***
-<p align="center"><b> 🎉 We are working on a more concise version of these roadmaps 🎉 </b><br>Keep your eyes on <a href="http://roadmap.sh">roadmap.sh</a> for the details!</p>
+### [View all Roadmaps](https://roadmap.sh)
 
-***
+![](https://i.imgur.com/waxVImv.png)
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+Here is the list of available roadmaps with more being actively worked upon.
 
-## Introduction
+- [Frontend Roadmap](https://roadmap.sh/frontend)
+- [Backend Roadmap](https://roadmap.sh/backend)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [React Roadmap](https://roadmap.sh/react)
+- [Vue Roadmap](https://roadmap.sh/vue)
+- [Angular Roadmap](https://roadmap.sh/angular)
+- [Android Roadmap](https://roadmap.sh/android)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [Node.js Roadmap](https://roadmap.sh/nodejs)
+- [Python Roadmap](https://roadmap.sh/python)
+- [Go Roadmap](https://roadmap.sh/golang)
+- [Java Roadmap](https://roadmap.sh/java)
+- [DBA Roadmap](https://roadmap.sh/postgresql-dba)
+- [Blockchain Roadmap](https://roadmap.sh/blockchain)
 
-![Web Developer Roadmap Introduction](./images/intro.png)
+![](https://i.imgur.com/waxVImv.png)
 
-## Frontend Roadmap
+If you think that these can be improved in any way, please do suggest. Also, if you would like to contribute to existing roadmaps or add a new roadmap, please open an issue or reach out to [@kamranahmedse](https://twitter.com/kamranahmedse).
 
-![Frontend Roadmap](./images/frontend.png?fix=531)
+## Development
 
-## Back-end Roadmap
+Clone the repository, install the dependencies and start the application
 
-![Back-end Roadmap](./images/backend.png)
+```bash
+git clone git@github.com:kamranahmedse/developer-roadmap.git
+npm install
+npm run dev
+```
 
-## DevOps Roadmap
+## Contribution
 
-![DevOps Roadmap](./images/devops.png)
+> Have a look at [contribution docs](./contributing) for how to update any of the roadmaps
 
-## 🚦 Wrap Up
-
-If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
-
-## 🙌 Contribution
-
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
+- Suggest changes to existing roadmaps
+- Improve the site's codebase
+- Add new Roadmap
+- Write tests
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
- 
+
 ## License
 
-[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+Have a look at the [license file](./license) for details
